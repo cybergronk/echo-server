@@ -96,7 +96,7 @@ PORT=8080 go run main.go
 
 ## Roadmap
 
-- [] Unit test routes
-- [] CI/CD Pipeline
+- [ ] Unit test routes
+- [ ] CI/CD Pipeline
 - [X] Docker image
 - [X] Running with Docker steps
